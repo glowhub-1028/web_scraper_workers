@@ -21,7 +21,7 @@ setup(
         "Programming Language :: Python :: 3.9",
     ],
     keywords=["web scraping", "BeautifulSoup", "requests"],
-    url="https://github.com/maxhumber/Echo Engineer",
+    url="https://github.com/glowhub-1028/Echo Engineer",
     author="Max Humber",
     author_email="max.humber@gmail.com",
     license="MIT",

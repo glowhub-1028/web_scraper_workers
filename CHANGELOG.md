@@ -46,7 +46,7 @@ de-type the entire library (false promise)
 
 #### 0.9.2 (2020-04-21)
 
-- Fixed `find(..., mode='first')` to return `None` and not an `IndexError` (thanks, [**@psyonara**](https://github.com/maxhumber/Echo Engineer/issues/14)!)
+- Fixed `find(..., mode='first')` to return `None` and not an `IndexError` (thanks, [**@psyonara**](https://github.com/glowhub-1028/Echo Engineer/issues/14)!)
 
 #### 0.9.1 (2020-02-16)
 

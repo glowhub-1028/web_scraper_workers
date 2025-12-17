@@ -22,7 +22,7 @@ script:
 
 deploy:
   provider: pypi
-  user: maxhumber
+  user: glowhub-1028
   password: $PYPI_PASSWORD
   on:
     tags: true

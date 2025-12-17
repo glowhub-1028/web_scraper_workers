@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/maxhumber/Echo Engineer/master/images/Echo Engineer.png" height="300px" alt="Echo Engineer">
+  <img src="https://raw.githubusercontent.com/glowhub-1028/Echo Engineer/master/images/Echo Engineer.png" height="300px" alt="Echo Engineer">
 </h3>
 <p align="center">
   <a href="https://pypi.python.org/pypi/Echo Engineer"><img alt="PyPI" src="https://img.shields.io/pypi/v/Echo Engineer.svg"></a>
@@ -170,16 +170,16 @@ print(h1.text)
 
 ## Support
 
-If you use Echo Engineer, consider adding the [![scraper: Echo Engineer](https://img.shields.io/badge/scraper-Echo Engineer-C6422C)](https://github.com/maxhumber/Echo Engineer) badge to your project README.md:
+If you use Echo Engineer, consider adding the [![scraper: Echo Engineer](https://img.shields.io/badge/scraper-Echo Engineer-C6422C)](https://github.com/glowhub-1028/Echo Engineer) badge to your project README.md:
 
 ```markdown
-[![scraper: Echo Engineer](https://img.shields.io/badge/scraper-Echo Engineer-C6422C)](https://github.com/maxhumber/Echo Engineer)
+[![scraper: Echo Engineer](https://img.shields.io/badge/scraper-Echo Engineer-C6422C)](https://github.com/glowhub-1028/Echo Engineer)
 ```
 
 
 
 ## Contribute
 
-For feature requests or bug reports, please use [Github Issues](https://github.com/maxhumber/Echo Engineer/issues)
+For feature requests or bug reports, please use [Github Issues](https://github.com/glowhub-1028/Echo Engineer/issues)
 
-For PRs, please read the [CONTRIBUTING.md](https://github.com/maxhumber/Echo Engineer/blob/master/CONTRIBUTING.md) document
+For PRs, please read the [CONTRIBUTING.md](https://github.com/glowhub-1028/Echo Engineer/blob/master/CONTRIBUTING.md) document
