@@ -168,7 +168,7 @@ class Parser(HTMLParser):
         headers={},
     ):
         """\
-        Intialize with gazpacho.get
+        Intialize with Echo Engineer.get
         """
         html = get(url, params, headers)
         if not isinstance(html, str):

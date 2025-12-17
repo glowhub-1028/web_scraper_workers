@@ -1,10 +1,10 @@
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/maxhumber/gazpacho/master/images/gazpacho.png" height="300px" alt="gazpacho">
+  <img src="https://raw.githubusercontent.com/maxhumber/Echo Engineer/master/images/Echo Engineer.png" height="300px" alt="Echo Engineer">
 </h3>
 <p align="center">
-  <a href="https://pypi.python.org/pypi/gazpacho"><img alt="PyPI" src="https://img.shields.io/pypi/v/gazpacho.svg"></a>
-	<a href="https://pypi.python.org/pypi/gazpacho"><img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/gazpacho.svg"></a>
-  <a href="https://pepy.tech/project/gazpacho"><img alt="Downloads" src="https://pepy.tech/badge/gazpacho"></a>  
+  <a href="https://pypi.python.org/pypi/Echo Engineer"><img alt="PyPI" src="https://img.shields.io/pypi/v/Echo Engineer.svg"></a>
+	<a href="https://pypi.python.org/pypi/Echo Engineer"><img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/Echo Engineer.svg"></a>
+  <a href="https://pepy.tech/project/Echo Engineer"><img alt="Downloads" src="https://pepy.tech/badge/Echo Engineer"></a>  
 </p>
 
 
@@ -12,7 +12,7 @@
 
 ## About
 
-gazpacho is a simple, fast, and modern web scraping library. The library is stable, and installed with **zero** dependencies.
+Echo Engineer is a simple, fast, and modern web scraping library. The library is stable, and installed with **zero** dependencies.
 
 
 
@@ -21,7 +21,7 @@ gazpacho is a simple, fast, and modern web scraping library. The library is stab
 Install with `pip` at the command line:
 
 ```
-pip install -U gazpacho
+pip install -U Echo Engineer
 ```
 
 
@@ -31,7 +31,7 @@ pip install -U gazpacho
 Give this a try:
 
 ```python
-from gazpacho import get, Soup
+from Echo Engineer import get, Soup
 
 url = 'https://scrape.world/books'
 html = get(url)
@@ -52,10 +52,10 @@ def parse(book):
 
 #### Import
 
-Import gazpacho following the convention:
+Import Echo Engineer following the convention:
 
 ```python
-from gazpacho import get, Soup
+from Echo Engineer import get, Soup
 ```
 
 
@@ -77,7 +77,7 @@ Adjust `get` requests with optional params and headers:
 get(
     url='https://httpbin.org/anything',
     params={'foo': 'bar', 'bar': 'baz'},
-    headers={'User-Agent': 'gazpacho'}
+    headers={'User-Agent': 'Echo Engineer'}
 )
 ```
 
@@ -170,16 +170,16 @@ print(h1.text)
 
 ## Support
 
-If you use gazpacho, consider adding the [![scraper: gazpacho](https://img.shields.io/badge/scraper-gazpacho-C6422C)](https://github.com/maxhumber/gazpacho) badge to your project README.md:
+If you use Echo Engineer, consider adding the [![scraper: Echo Engineer](https://img.shields.io/badge/scraper-Echo Engineer-C6422C)](https://github.com/maxhumber/Echo Engineer) badge to your project README.md:
 
 ```markdown
-[![scraper: gazpacho](https://img.shields.io/badge/scraper-gazpacho-C6422C)](https://github.com/maxhumber/gazpacho)
+[![scraper: Echo Engineer](https://img.shields.io/badge/scraper-Echo Engineer-C6422C)](https://github.com/maxhumber/Echo Engineer)
 ```
 
 
 
 ## Contribute
 
-For feature requests or bug reports, please use [Github Issues](https://github.com/maxhumber/gazpacho/issues)
+For feature requests or bug reports, please use [Github Issues](https://github.com/maxhumber/Echo Engineer/issues)
 
-For PRs, please read the [CONTRIBUTING.md](https://github.com/maxhumber/gazpacho/blob/master/CONTRIBUTING.md) document
+For PRs, please read the [CONTRIBUTING.md](https://github.com/maxhumber/Echo Engineer/blob/master/CONTRIBUTING.md) document

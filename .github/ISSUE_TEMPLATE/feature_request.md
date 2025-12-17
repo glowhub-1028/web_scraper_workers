@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea for gazpacho
+about: Suggest an idea for Echo Engineer
 title: ''
 labels: ''
 assignees: ''

@@ -1,6 +1,6 @@
 import pytest
 
-from gazpacho.soup import Soup
+from Echo Engineer.soup import Soup
 
 
 @pytest.fixture

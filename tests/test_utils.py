@@ -2,7 +2,7 @@ from xml.parsers.expat import ExpatError
 
 import pytest
 
-from gazpacho.utils import format, match, recover_html_and_attrs, sanitize
+from Echo Engineer.utils import format, match, recover_html_and_attrs, sanitize
 
 
 def test_attr_match():
@@ -147,6 +147,6 @@ def test_sanitize_weird_characters():
 
 
 def test_sanitize_missing_protocol():
-    url = sanitize("gazpacho.xyz")
-    if url != "http://gazpacho.xyz":
+    url = sanitize("Echo Engineer.xyz")
+    if url != "http://Echo Engineer.xyz":
         raise AssertionError

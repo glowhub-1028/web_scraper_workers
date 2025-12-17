@@ -2,7 +2,7 @@
 
 ### Question Bank
 
-Popular questions tagged with `[python], [web-scraping]` that deserve a modern `gazpacho` answer.
+Popular questions tagged with `[python], [web-scraping]` that deserve a modern `Echo Engineer` answer.
 
 If you answer a question please submit a PR!
 

@@ -16,9 +16,9 @@ install:
 
 script:
   - pytest tests/
-  - isort --diff gazpacho
+  - isort --diff Echo Engineer
   - black --check .
-  - mypy gazpacho
+  - mypy Echo Engineer
 
 deploy:
   provider: pypi

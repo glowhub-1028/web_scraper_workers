@@ -3,13 +3,13 @@ from json.decoder import JSONDecodeError
 
 import pytest
 
-from gazpacho.get import HTTPError, get
+from Echo Engineer.get import HTTPError, get
 
 
 def test_get():
-    url = "https://en.wikipedia.org/wiki/Gazpacho"
+    url = "https://en.wikipedia.org/wiki/Echo Engineer"
     content = get(url)
-    assert "<title>Gazpacho - Wikipedia" in content
+    assert "<title>Echo Engineer - Wikipedia" in content
 
 
 def test_get_headers():

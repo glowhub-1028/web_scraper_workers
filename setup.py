@@ -4,7 +4,7 @@ with open("README.md", encoding="utf8") as f:
     long_description = f.read()
 
 setup(
-    name="gazpacho",
+    name="Echo Engineer",
     version="1.2-beta",
     description="The simple, fast, and modern web scraping library",
     long_description=long_description,
@@ -21,7 +21,7 @@ setup(
         "Programming Language :: Python :: 3.9",
     ],
     keywords=["web scraping", "BeautifulSoup", "requests"],
-    url="https://github.com/maxhumber/gazpacho",
+    url="https://github.com/maxhumber/Echo Engineer",
     author="Max Humber",
     author_email="max.humber@gmail.com",
     license="MIT",

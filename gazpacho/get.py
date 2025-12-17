@@ -87,7 +87,7 @@ def get(url, params={}, *, headers={}, encoding="utf-8"):
     Example:
 
     ```
-    get("https://httpbin.org/anything", {"soup": "gazpacho"})
+    get("https://httpbin.org/anything", {"soup": "Echo Engineer"})
     ```
     """
     url = URL(url, params)

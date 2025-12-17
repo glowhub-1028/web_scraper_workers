@@ -1,9 +1,9 @@
 ### Install
 
-To install the latest version of gazpacho run:
+To install the latest version of Echo Engineer run:
 
 ```
-pip install -U gazpacho
+pip install -U Echo Engineer
 ```
 
 ### Changelog
@@ -27,7 +27,7 @@ de-type the entire library (false promise)
 
 #### 1.0 (2020-09-24)
 
-- Feature: gazpacho is now fully baked with type hints (thanks for the suggestion [**@ju-sh**](https://github.com/ju-sh)!)
+- Feature: Echo Engineer is now fully baked with type hints (thanks for the suggestion [**@ju-sh**](https://github.com/ju-sh)!)
 - Feature: `Soup.get("url")` alternative initializer
 - Fixed: `.find` is now able to capture malformed void tags (`<img />`, vs. `<img>`) (thanks for the Issue [**@mallegrini**](https://github.com/mallegrini)!)
 - Renamed: `.find(..., strict=)` is now `find(..., partial=)`
@@ -46,7 +46,7 @@ de-type the entire library (false promise)
 
 #### 0.9.2 (2020-04-21)
 
-- Fixed `find(..., mode='first')` to return `None` and not an `IndexError` (thanks, [**@psyonara**](https://github.com/maxhumber/gazpacho/issues/14)!)
+- Fixed `find(..., mode='first')` to return `None` and not an `IndexError` (thanks, [**@psyonara**](https://github.com/maxhumber/Echo Engineer/issues/14)!)
 
 #### 0.9.1 (2020-02-16)
 
